@@ -1,9 +1,9 @@
 # 📖 Table of contents
 
-- [👋 Introduction](#introduction)
-- [🎯 Target](#target)
-- [✅ Prerequisites](#prerequisites)
-- [☁️ AWS](#aws)
+- [👋 Introduction](#-introduction)
+- [🎯 Target](#-target)
+- [✅ Prerequisites](#-prerequisites)
+- [☁️ AWS](#-aws)
   - [Architecture](#architecture)
   - [CDK](#cdk)
     - [File structure](#file-structure)
@@ -14,13 +14,13 @@
       - [yarn bootstrap](#yarn-bootstrap)
       - [yarn deploy](#yarn-deploy)
       - [cdk destroy](#cdk-destroy)
-- [🤖 Github automation](#github-automation)
+- [🤖 Github automation](#-github-automation)
   - [Github Deployments API](#github-deployments-api)
   - [Github Actions](#github-actions)
     - [Pull Request deploy](#pull-request-deploy)
     - [Pull Request clean-up](#pull-request-clean-up)
-- [📸 Workflow in pictures](#workflow-in-pictures)
-- [🌇 Conclusion](#conclusion)
+- [📸 Workflow in pictures](#-workflow-in-pictures)
+- [🌇 Conclusion](#-conclusion)
 
 
 # 👋 Introduction
