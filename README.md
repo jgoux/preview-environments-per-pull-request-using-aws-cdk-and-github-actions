@@ -366,7 +366,7 @@ jobs:
  Oops, something went wrong, let's fix this
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ax0utzl04vwoxnycjf3i.png)
 
-New push, here we go again, the previous deployment is marked as Destroyed
+New push, here we go again, the previous deployment is marked as `Destroyed`
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmq25qq7abyw6sy8uyy1.png)
 
 YAY it worked!
