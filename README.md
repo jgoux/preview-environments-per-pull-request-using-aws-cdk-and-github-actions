@@ -389,6 +389,6 @@ Here are some ideas (and maybe future posts) :
 
 I want to use this post to thanks all the people that took the time to answer my *numerous* questions across Twitter, Github issues, Discord, Zoom, Slack and more recently the [AWS CDK Slack community](https://cdk.dev).
 
-I can't list everyone, I ask too many questions 😂. I'm very grateful to be in communities of such talented, opened and nice people.
+I can't list everyone, I ask too many questions 😂. I'm very grateful to be in communities of such talented, open-minded and inclusive people.
 
 This is my first post ever, over the years I greatly benefited from OSS and I want to give back to the community. ❤️
