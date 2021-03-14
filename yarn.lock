@@ -55,7 +55,7 @@
     "@aws-cdk/cx-api" "1.93.0"
     constructs "^3.2.0"
 
-"@aws-cdk/aws-cloudfront-origins@^1.93.0":
+"@aws-cdk/aws-cloudfront-origins@1.93.0":
   version "1.93.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-cloudfront-origins/-/aws-cloudfront-origins-1.93.0.tgz#b7e8e0debc7701ee3b1eb10c707ae5a08dc95acc"
   integrity sha512-xLFdJXkKl4Yh5rGJ9KOXoxSAuwG0gfaTDGsiNf6sbYS7iQYz+DRupCZFO9r66ewRfvfukxdhg/9+ieJH7kJEEw==
@@ -67,7 +67,7 @@
     "@aws-cdk/core" "1.93.0"
     constructs "^3.2.0"
 
-"@aws-cdk/aws-cloudfront@1.93.0", "@aws-cdk/aws-cloudfront@^1.93.0":
+"@aws-cdk/aws-cloudfront@1.93.0":
   version "1.93.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-cloudfront/-/aws-cloudfront-1.93.0.tgz#f4c8e2e5ff07139fb5f2ea55c0d05cc3a22bafbd"
   integrity sha512-mthRLS5zs45Uwixiab4/EGqAkAmoup3A/JZ4VmXbjHM2zYvKb0a0gU/hQKwoX+kCpTjCpNcRJhoSZ6/ROLhjrg==
@@ -262,7 +262,7 @@
     "@aws-cdk/cx-api" "1.93.0"
     constructs "^3.2.0"
 
-"@aws-cdk/aws-s3-deployment@^1.93.0":
+"@aws-cdk/aws-s3-deployment@1.93.0":
   version "1.93.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-s3-deployment/-/aws-s3-deployment-1.93.0.tgz#aa058191a2304638163b4163f2657996d061a53b"
   integrity sha512-FpkxoSWlu1b5gWhtU4NAAAqUV9z4x0GAQV9IYQVSPDonr7b4fqdxO1tiMUMSrsLgCU1SP240WQvec1TngKi62w==
@@ -277,7 +277,7 @@
     "@aws-cdk/lambda-layer-awscli" "1.93.0"
     constructs "^3.2.0"
 
-"@aws-cdk/aws-s3@1.93.0", "@aws-cdk/aws-s3@^1.93.0":
+"@aws-cdk/aws-s3@1.93.0":
   version "1.93.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-s3/-/aws-s3-1.93.0.tgz#330a839ab34ce5a6970901184bc9a5160a5c28a7"
   integrity sha512-sDm3Q0DODqxCeYLLwTg+YdKLPQnH0MXr5n6C29ZomK7xdKk8kA7LN18MwiLAfrvggZxaA/7VkWsatP3Q+bYfoQ==
@@ -359,7 +359,7 @@
     string-width "^4.2.2"
     table "^6.0.7"
 
-"@aws-cdk/core@1.93.0", "@aws-cdk/core@^1.93.0":
+"@aws-cdk/core@1.93.0":
   version "1.93.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/core/-/core-1.93.0.tgz#cb3f01a6cf3124f248e9f60d5dc085dfb874f267"
   integrity sha512-Z/1IZJJBfurswUKKMxoVbS0hJGIdVaTYlMCcSsYIlEVgv4D+4YfkRnWsp99IscUr1zvs+FTfM/K1ykXb8u2gaQ==
@@ -426,12 +426,12 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@tsconfig/node14@^1.0.0":
+"@tsconfig/node14@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@tsconfig/node14/-/node14-1.0.0.tgz#5bd046e508b1ee90bc091766758838741fdefd6e"
   integrity sha512-RKkL8eTdPv6t5EHgFKIVQgsDapugbuOptNd9OOunN/HAkzmmTnZELx1kNCK0rSdUYGmiFMM3rRQMAWiyp023LQ==
 
-"@types/node@^14.14.34":
+"@types/node@14.14.34":
   version "14.14.34"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.34.tgz#07935194fc049069a1c56c0c274265abeddf88da"
   integrity sha512-dBPaxocOK6UVyvhbnpFIj2W+S+1cBTkHQbFQfeeJhoKFbzYcVUGHvddeWPSucKATb3F0+pgDq0i6ghEaZjsugA==
@@ -521,7 +521,7 @@ at-least-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/at-least-node/-/at-least-node-1.0.0.tgz#602cd4b46e844ad4effc92a8011a3c46e0238dc2"
   integrity sha512-+q/t7Ekv1EDY2l6Gda6LLiX14rU9TV20Wa3ofeQmwPFZbOMo9DXrLbOjFaaclkXKWidIaopwAObQDqwWtGUjqg==
 
-aws-cdk@^1.93.0:
+aws-cdk@1.93.0:
   version "1.93.0"
   resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-1.93.0.tgz#6b2a644b76d35cc5eadaab5cfe5583cac02e34b3"
   integrity sha512-/nu/42rVYK06j/w2uoxLc4zCbpdyWBuAXLXj74UyilHakoKDCyvAA6LCiAOlLP8BrpFyd/tbdB3aRue8qCEb1A==
@@ -1485,7 +1485,7 @@ toidentifier@1.0.0:
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.0.tgz#7e1be3470f1e77948bc43d94a3c8f4d7752ba553"
   integrity sha512-yaOH/Pk/VEhBWWTlhI+qXxDFXlejDGcQipMlyxda9nthulaxLZUNcUqFxokp0vcYnvteJln5FNQDRrxj3YcbVw==
 
-ts-node@^9.1.1:
+ts-node@9.1.1:
   version "9.1.1"
   resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-9.1.1.tgz#51a9a450a3e959401bda5f004a72d54b936d376d"
   integrity sha512-hPlt7ZACERQGf03M253ytLY3dHbGNGrAq9qIHWUY9XHYl1z7wYngSr3OQ5xmui8o2AaxsONxIzjafLUiWBo1Fg==
@@ -1509,7 +1509,7 @@ type-check@~0.3.2:
   dependencies:
     prelude-ls "~1.1.2"
 
-typescript@^4.2.3:
+typescript@4.2.3:
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.3.tgz#39062d8019912d43726298f09493d598048c1ce3"
   integrity sha512-qOcYwxaByStAWrBf4x0fibwZvMRG+r4cQoTjbPtUlrWjBHbmCAww1i448U0GJ+3cNNEtebDteo/cHOR3xJ4wEw==
