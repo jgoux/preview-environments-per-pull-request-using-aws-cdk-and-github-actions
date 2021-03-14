@@ -25,7 +25,7 @@
 
 # 👋 Introduction
 
-One of the biggest challenge today when delivering software is to move **fast**. Moving fast and keeping a high quality and confidence in your code is not an easy task.
+One of the biggest challenges today when delivering software is to move **fast**. Moving fast and keeping a high quality and confidence in your code is not an easy task.
 
 Services like [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Qovery](https://www.qovery.com/) or [Railway](http://railway.app/) are all working toward that goal, making our lives **way easier**. All these platforms allow us to quickly iterate, delivering value by focusing only on our code and forgetting about the nightmare that devops can be. I'm grateful for each of them.
 
@@ -205,7 +205,7 @@ This concludes the infrastructure part of this post, I hope you're still there f
 
 ## Github Deployments API
 
-Github as dedicated UIs and status integration when deploying code in a repository. It's pretty deep in their [REST API](https://docs.github.com/en/rest/reference/repos#deployments) and I didn't notice a lot of adoption for this feature.
+Github has dedicated UIs and status integration when deploying code in a repository. It's pretty deep in their [REST API](https://docs.github.com/en/rest/reference/repos#deployments) and I didn't notice a lot of adoption for this feature.
 
 I see a lot of benefits using it :
 - Having nice feedbacks directly in the Pull Request about the status of the current deployment.
