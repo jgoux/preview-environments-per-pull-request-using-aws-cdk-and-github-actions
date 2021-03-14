@@ -392,3 +392,5 @@ I want to use this post to thanks all the people that took the time to answer my
 I can't list everyone, I ask too many questions 😂. I'm very grateful to be in communities of such talented, open-minded and inclusive people.
 
 This is my first post ever, over the years I greatly benefited from OSS and I want to give back to the community. ❤️
+
+Don't hesitate to ping me on [Twitter](https://twitter.com/_jgx_) if you want to chat about anything, my DMs are always open!
