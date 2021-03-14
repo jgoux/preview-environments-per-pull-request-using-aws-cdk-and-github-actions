@@ -13,7 +13,7 @@
     - [CLI](#cli)
       - [yarn bootstrap](#yarn-bootstrap)
       - [yarn deploy](#yarn-deploy)
-      - [cdk destroy](#cdk-destroy)
+      - [yarn destroy](#yarn-destroy)
 - [🤖 Github automation](#-github-automation)
   - [Github Deployments API](#github-deployments-api)
   - [Github Actions](#github-actions)
@@ -192,7 +192,7 @@ If you run the command multiple times, CloudFormation will diff your changes aut
 
 You can notice that in order to run this command, I expect to have the STAGE environment variable set. Also, I'm only targeting a single stack but `cdk deploy` also accepts globs if you have multiple stacks to deploy.
 
-#### cdk destroy
+#### yarn destroy
 ```bash
 cdk destroy "AwesomeStack-${STAGE}" --force
 ```
