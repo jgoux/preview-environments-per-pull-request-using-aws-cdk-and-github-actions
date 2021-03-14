@@ -57,7 +57,11 @@ The architecture is composed of [CloudFront](https://aws.amazon.com/cloudfront/)
 
 ## CDK
 
-The AWS **C**loud **D**evelopment **K**it is an open source software development framework to define your cloud application resources using familiar programming languages such as TypeScript in the context of this post. You can forget the hundreds of lines of CloudFormation yaml files or the confusing AWS Console UI. As an infrastructure as code framework, CDK is an abstraction over these low level constructs with sensible defaults.
+The AWS **C**loud **D**evelopment **K**it is an open source software development framework to define your cloud application resources using familiar programming languages such as TypeScript in the context of this post.
+
+TypeScript gives us autocompletion and type safety on every part of our infrastructure, no more back and forth with the documentation, everything is available with a few keystrokes.
+
+You can forget the hundreds of lines of CloudFormation yaml files or the confusing AWS Console UI. As an infrastructure as code framework, CDK is an abstraction over these low level constructs with sensible defaults.
 
 ### File structure
 
@@ -366,7 +370,7 @@ jobs:
  Oops, something went wrong, let's fix this
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ax0utzl04vwoxnycjf3i.png)
 
-New push, here we go again, the previous deployment is marked as `Destroyed`
+New push, here we go again, the previous deployment is marked as Destroyed
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmq25qq7abyw6sy8uyy1.png)
 
 YAY it worked!
@@ -385,12 +389,13 @@ You now have all the building blocks to make **your own workflow**, how cool is 
 Here are some ideas (and maybe future posts) :
 - Using your own custom domain to have pretty preview urls like `https://pr-1-my-awesome-branch.jgoux.dev` using AWS Route53.
 - Going full stack and serverless, adding lambdas and a RDS database to the stack with the same previews and isolation guarantees!
+- Generating infrastructure dynamically based on your application's code
 - Strategies to speed up the deployment with CDK and optimizing costs by splitting your stack into an always up and shared `StableStack` and temporaries `DynamicStack-${STAGE}`.
 
 I want to use this post to thanks all the people that took the time to answer my *numerous* questions across Twitter, Github issues, Discord, Zoom, Slack and more recently the [AWS CDK Slack community](https://cdk.dev).
 
-I can't list everyone, I ask too many questions 😂. I'm very grateful to be in communities of such talented, open-minded and inclusive people.
+I can't list everyone, I ask too many questions 😂, but I want to give a special thanks to [Thorsten Hoeger](https://twitter.com/hoegertn) and [Kenneth Winner](https://twitter.com/KenWin0x539) for proofreading this post. I'm very grateful to be in communities of such talented, opened and nice people.
 
 This is my first post ever, over the years I greatly benefited from OSS and I want to give back to the community. ❤️
 
-Don't hesitate to ping me on [Twitter](https://twitter.com/_jgx_) if you want to chat about anything, my DMs are always open!
+Don't hesitate to ping me on [Twitter](https://twitter.com/_jgx_) 🐦 if you want to chat about anything, my DMs are always open!
