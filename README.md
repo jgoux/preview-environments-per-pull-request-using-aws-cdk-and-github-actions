@@ -25,7 +25,7 @@
 
 # 👋 Introduction
 
-One of the biggest challenges today when delivering software is to move **fast**. Moving fast and keeping a high quality and confidence in your code is not an easy task.
+One of the biggest challenges today when delivering software is to move **fast**. Moving fast and keeping a high quality and confidence in your code is not an easy task. Having a tight feedback loop is our number one priority at [Clovis](https://www.clovis.pro).
 
 Services like [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Qovery](https://www.qovery.com/) or [Railway](http://railway.app/) are all working toward that goal, making our lives **way easier**. All these platforms allow us to quickly iterate, delivering value by focusing only on our code and forgetting about the nightmare that devops can be. I'm grateful for each of them.
 
